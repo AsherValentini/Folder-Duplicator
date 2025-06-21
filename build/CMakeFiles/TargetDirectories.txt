@@ -1,0 +1,3 @@
+/home/asher/cpp-projects/Folder-Duplicator/build/CMakeFiles/prog.dir
+/home/asher/cpp-projects/Folder-Duplicator/build/CMakeFiles/edit_cache.dir
+/home/asher/cpp-projects/Folder-Duplicator/build/CMakeFiles/rebuild_cache.dir
