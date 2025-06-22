@@ -1,6 +1,7 @@
 # Folder Deduplicator
 
 You’re given a virtual folder tree where some subfolders may be duplicates (i.e., have the exact same structure and file names). Your job is to detect and remove all duplicate subtrees.
+
 ## Input
 
 You're given a tree-like structure where each node is a DirNode representing a folder. Each folder has:
